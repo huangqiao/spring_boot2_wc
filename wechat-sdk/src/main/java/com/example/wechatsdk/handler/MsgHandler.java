@@ -1,7 +1,9 @@
 package com.example.wechatsdk.handler;
 
-import com.github.binarywang.demo.wx.mp.builder.TextBuilder;
-import com.github.binarywang.demo.wx.mp.utils.JsonUtils;
+//import com.github.binarywang.demo.wx.mp.builder.TextBuilder;
+//import com.github.binarywang.demo.wx.mp.utils.JsonUtils;
+import com.example.wechatsdk.builder.TextBuilder;
+import com.example.wechatsdk.utils.JsonUtils;
 import me.chanjar.weixin.common.error.WxErrorException;
 import me.chanjar.weixin.common.session.WxSessionManager;
 import me.chanjar.weixin.mp.api.WxMpService;
